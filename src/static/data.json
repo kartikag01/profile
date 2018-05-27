@@ -1,0 +1,92 @@
+{
+  "summary": {
+    "name": "Kartik Agarwal",
+    "about" : "MEAN/MERN Stack Developer with 2+ years experience in startups.",
+    "img" : "https://avatars2.githubusercontent.com/u/10574227?s=460&v=4",
+    "skills":["ReactJs", "NodeJS", "Java"],
+    "phoneno" : "+91-9654013024",
+    "email":"kartikagarwal01@gmail.com",
+    "twitter" : "https://twitter.com/KartiK_Agarwal_",
+    "linkedIn":"https://www.linkedin.com/in/kartik-agarwal/",
+    "github":"https://github.com/KARTIK01/",
+    "medium":"https://medium.com/@kartikagarwal01",
+    "stackOverflow":"https://stackoverflow.com/users/2980047/kartik-agarwal",
+    "pdf_url" : "eflhisef",
+    "total_exp" :"ef"
+  },
+  "experiences" : [
+    {
+      "company" : "Practo",
+      "profile" : "Software Developer",
+      "duration":"2018,March - present",
+      "technologyUsed" : [
+        "React.js", "java"
+      ],
+      "projects" : ["HMS"],
+      "details" : [
+        "Working on user interface and backend of HMS"
+      ]
+    },
+    {
+      "company" : "Workex",
+      "profile" : "Sr. Software Developer",
+      "duration":"2017,March - 2018,Feb",
+      "technologyUsed" : [
+        "React.js", "Node.js", "MongoDB", "Elastic Search", "Redis"
+      ],
+      "projects" : ["ATS", "VMS"],
+      "details" : [
+        "Working on user interface and backend of HMS"
+      ]
+    },
+    {
+      "company" : "Zuppit/ChatterOn",
+      "profile" : "Full Stack Developer",
+      "duration":"2016,Feb- 2017,Feb",
+      "technologyUsed" : [
+        "React.js", "node.js", "Android"
+      ],
+      "projects" : ["DIY ChatBot Platform", ""],
+      "details" : [
+        "Working on user interface and backend of HMS"
+      ]
+    },
+    {
+      "company" : "Navia Life Care",
+      "profile" : "Android Developer Intern",
+      "duration":"2015,Nov - 2016,Jan",
+      "technologyUsed" : [
+        "Android", "java"
+      ],
+      "projects" : ["Health Manager App"],
+      "details" : [
+        "Working on user interface and backend of HMS"
+      ]
+    }
+  ],
+  "educations" : [
+    {
+      "college" : "ABES Engineering College",
+      "univ" : "UPTU",
+      "duration" : "2012-2016",
+      "degree" : "Bachelor of Technology",
+      "major" : "Computer Science and Engineering",
+      "marks": "70.50%"
+    },
+    {
+      "college" : "ST Mary’s Convent",
+      "univ" : "C.B.S.E",
+      "duration" : "2010-2012",
+      "degree" : "Intermediate",
+      "major" : "PCM + C",
+      "marks": "89.60%"
+    },
+    {
+      "college" : "ST Mary’s Convent",
+      "univ" : "C.B.S.E",
+      "duration" : "2008-2010",
+      "degree" : "High school",
+      "marks": "8.4CGPA"
+    }
+  ]
+}
