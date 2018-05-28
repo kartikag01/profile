@@ -18,7 +18,7 @@
     {
       "company" : "Practo",
       "profile" : "Software Developer",
-      "duration":"2018,March - present",
+      "duration":"March 2018 - Present",
       "technologyUsed" : [
         "React.js", "java"
       ],
@@ -30,7 +30,7 @@
     {
       "company" : "Workex",
       "profile" : "Sr. Software Developer",
-      "duration":"2017,March - 2018,Feb",
+      "duration":"March 2017 - Feb 2018",
       "technologyUsed" : [
         "React.js", "Node.js", "MongoDB", "Elastic Search", "Redis"
       ],
@@ -42,7 +42,7 @@
     {
       "company" : "Zuppit/ChatterOn",
       "profile" : "Full Stack Developer",
-      "duration":"2016,Feb- 2017,Feb",
+      "duration":"Feb 2016 - Feb 2017",
       "technologyUsed" : [
         "React.js", "node.js", "Android"
       ],
@@ -54,7 +54,7 @@
     {
       "company" : "Navia Life Care",
       "profile" : "Android Developer Intern",
-      "duration":"2015,Nov - 2016,Jan",
+      "duration":"Nov 2015 - Jan 2016",
       "technologyUsed" : [
         "Android", "java"
       ],

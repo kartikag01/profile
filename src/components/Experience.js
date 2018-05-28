@@ -19,6 +19,10 @@ function Description({appreciations, details}) {
     return description;
 }
 
+function TechnologyUsed({technologyUsed = []}) {
+    return technologyUsed.map(tech => <Label as='a' tag>{tech}</Label>);
+}
+
 function Experience(experience) {
     let { company, profile, duration, technologyUsed = [],projects = [],details = [], appreciations} = experience;
     return (
@@ -27,6 +31,7 @@ function Experience(experience) {
                 <Label  ribbon='right' color='orange'>{duration}</Label>
                 <Card.Header className='company'>{company}</Card.Header>
                 <Card.Meta className='role'>{profile}</Card.Meta>
+                <TechnologyUsed technologyUsed={technologyUsed}/>
                 <Card.Description className='description'>
                     <List>
                         {<Description details={details} appreciations={appreciations}/>}
