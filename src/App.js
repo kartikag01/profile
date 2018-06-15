@@ -12,7 +12,7 @@ class App extends Component {
             <div className="App">
                 <Summary {...summary}/>
                 <Experience experiences={experiences}/>
-                <Educations educations={educations}/>
+                {/*<Educations educations={educations}/>*/}
             </div>
         );
     }

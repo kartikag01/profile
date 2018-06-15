@@ -20,7 +20,7 @@ function Description({appreciations, details}) {
 }
 
 function TechnologyUsed({technologyUsed = []}) {
-    return technologyUsed.map(tech => <Label as='a' tag>{tech}</Label>);
+    return technologyUsed.map(tech => <Label style={{margin: 10}} as='a' tag>{tech}</Label>);
 }
 
 function Experience(experience) {

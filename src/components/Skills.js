@@ -10,8 +10,8 @@ function Image({skill}) {
 
 function Skill({skill}) {
     return (
-        <Label >
-            <Image skill={skill}/>
+        <Label style={{fontSize: 14, margin: '1em'}}>
+            {/*<Image skill={skill}/>*/}
             {skill}
         </Label>
     );

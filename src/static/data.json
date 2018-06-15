@@ -17,14 +17,16 @@
   "experiences" : [
     {
       "company" : "Practo",
-      "profile" : "Software Developer",
+      "profile" : "Software Engineer",
       "duration":"March 2018 - Present",
       "technologyUsed" : [
         "React.js", "java"
       ],
       "projects" : ["HMS"],
       "details" : [
-        "Working on user interface and backend of HMS"
+        "Worked on Code Modularization for reusability.",
+        "Fixes and improvement in Registration and Insurance Module",
+        "Worked on UI and Backend of HMS"
       ]
     },
     {
@@ -32,11 +34,14 @@
       "profile" : "Sr. Software Developer",
       "duration":"March 2017 - Feb 2018",
       "technologyUsed" : [
-        "React.js", "Node.js", "MongoDB", "Elastic Search", "Redis"
+        "React.js", "Node.js", "MongoDB", "Redis"
       ],
       "projects" : ["ATS", "VMS"],
       "details" : [
-        "Working on user interface and backend of HMS"
+        "Worked on ATS backend from scratch",
+        "ATS Web Panel for Recruiters",
+        "ATS Monitoring Web Panel for Support Team",
+        "Architecturing VMS dynamic view library"
       ]
     },
     {
@@ -46,9 +51,12 @@
       "technologyUsed" : [
         "React.js", "node.js", "Android"
       ],
-      "projects" : ["DIY ChatBot Platform", ""],
+      "projects" : ["DIY ChatBot Platform", "Zuppit - News App"],
       "details" : [
-        "Working on user interface and backend of HMS"
+        "Worked on DIY platform for chat bot development.",
+        "Bot Managing dashboard - send push, check analytics.",
+        "Written customise chat bot work flow.",
+        "Integrating live cricket score feature in android app"
       ]
     },
     {
@@ -60,7 +68,8 @@
       ],
       "projects" : ["Health Manager App"],
       "details" : [
-        "Working on user interface and backend of HMS"
+        "Worked on medicine reminder module",
+        "Developed medicine order module"
       ]
     }
   ],
