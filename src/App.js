@@ -6,15 +6,16 @@ import Experience from "./components/Experience";
 import Educations from "./components/Education";
 
 class App extends Component {
-  render() {
-    return (
-        <div >
-            <script src="https://gist.github.com/KARTIK01/21a880dd7119220d4418df4d08cf42c4.js"></script>
-        </div>
-    );
-
-
-  }
+    render() {
+        let {summary , experiences, educations}= data;
+        return (
+            <div className="App">
+                <Summary {...summary}/>
+                <Experience experiences={experiences}/>
+                <Educations educations={educations}/>
+            </div>
+        );
+    }
 }
 
 export default App;
