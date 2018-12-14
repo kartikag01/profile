@@ -1,9 +1,9 @@
 {
   "summary": {
     "name": "Kartik Agarwal",
-    "about" : "MEAN/MERN Stack Developer with 2+ years experience in startups.",
+    "about" : "MEAN/MERN Stack Developer with 3+ years experience in startups.",
     "img" : "https://avatars2.githubusercontent.com/u/10574227?s=460&v=4",
-    "skills":["ReactJs", "NodeJS", "Java"],
+    "skills":["ReactJs", "NodeJS"],
     "phoneno" : "+91-9654013024",
     "email":"kartikagarwal01@gmail.com",
     "twitter" : "https://twitter.com/kartikag01",
@@ -16,9 +16,20 @@
   },
   "experiences" : [
     {
+      "company" : "Leena Ai",
+      "profile" : "Senior Frontend Engineer",
+      "duration":"November 2018 - Present",
+      "technologyUsed" : [
+        "React.js", "Redux"
+      ],
+      "projects" : ["Chat"],
+      "details" : [
+        "Building Chat Bot DIY Platform."
+      ]
+    },{
       "company" : "Practo",
       "profile" : "Software Engineer",
-      "duration":"March 2018 - Present",
+      "duration":"March 2018 - November 2018",
       "technologyUsed" : [
         "React.js", "java"
       ],
@@ -57,19 +68,6 @@
         "Bot Managing dashboard - send push, check analytics.",
         "Written customise chat bot work flow.",
         "Integrating live cricket score feature in android app"
-      ]
-    },
-    {
-      "company" : "Navia Life Care",
-      "profile" : "Android Developer Intern",
-      "duration":"Nov 2015 - Jan 2016",
-      "technologyUsed" : [
-        "Android", "java"
-      ],
-      "projects" : ["Health Manager App"],
-      "details" : [
-        "Worked on medicine reminder module",
-        "Developed medicine order module"
       ]
     }
   ],
