@@ -2,7 +2,7 @@
   "name": "profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kartik01.github.io/profile/",
+  "homepage": "https://kartik01.github.io/profile",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
