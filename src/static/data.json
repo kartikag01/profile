@@ -1,7 +1,8 @@
 {
   "summary": {
     "name": "Kartik Agarwal",
-    "about" : "MEAN/MERN Stack Developer with 3+ years experience in startups.",
+    "about" : "MEAN/MERN Stack Developer with 3+ years experience in startups,",
+    "about2" : "Speaker and organizer of React Delhi-NCR, JS Brackets.",
     "img" : "https://avatars2.githubusercontent.com/u/10574227?s=460&v=4",
     "skills":["ReactJs", "NodeJS"],
     "phoneno" : "+91-9654013024",
@@ -24,7 +25,9 @@
       ],
       "projects" : ["Chat"],
       "details" : [
-        "Building Chat Bot DIY Platform."
+        "Building Chat Bot DIY Platform.",
+        "Build Ticketing, Engagement, Analytics and Generic Views Projects.",
+        "Fully Responsible for all front-end project"
       ]
     },{
       "company" : "Practo",

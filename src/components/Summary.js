@@ -12,7 +12,7 @@ const HeaderContent = ({display}) => (
     </Header.Subheader>);
 
 function Summary(props) {
-    let {name , img, skills, phoneno, email, linkedIn, twitter, about,
+    let {name , img, skills, phoneno, email, linkedIn, twitter, about, about2,
         github, medium, stackOverflow, pdf_url, total_exp} = props;
     return (
         <div>
@@ -21,6 +21,7 @@ function Summary(props) {
                 <Image bordered src={KartikImage} style={{width:'162px'}} circular />
                 <Header.Content>{name}</Header.Content>
                 <HeaderContent  display={about} />
+                <HeaderContent  display={about2} />
                 <Skills  skills={skills} />
                 <HeaderContent  display={phoneno} />
                 <HeaderContent display={<a style={{color:'#f21a0f', textDecoration:'underline'}}
